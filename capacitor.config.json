@@ -1,0 +1,14 @@
+{
+  "appId": "com.abdullahtv.app",
+  "appName": "ABDULLAH TV 📺",
+  "webDir": "www",
+  "server": {
+    "allowNavigation": [
+      "*"
+    ],
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
